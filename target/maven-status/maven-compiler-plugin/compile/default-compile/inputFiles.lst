@@ -8,3 +8,4 @@
 /home/kleber/devmedia_1/intro-spring-mvc/src/main/java/br/com/sysm/curso/domain/Usuario.java
 /home/kleber/devmedia_1/intro-spring-mvc/src/main/java/br/com/sysm/curso/domain/TipoSexo.java
 /home/kleber/devmedia_1/intro-spring-mvc/src/main/java/br/com/sysm/curso/web/converter/TipoSexoConverter.java
+/home/kleber/devmedia_1/intro-spring-mvc/src/main/java/br/com/sysm/curso/config/SpringJpaConfig.java
